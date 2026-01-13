@@ -1,1 +1,7 @@
 /.idea/
+backend/backend.csproj
+backend/backend.csproj
+backend/obj/backend.csproj.nuget.dgspec.json
+backend/obj/backend.csproj.nuget.g.targets
+backend/obj/project.assets.json
+backend/obj/project.nuget.cache
