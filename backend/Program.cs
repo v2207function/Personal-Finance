@@ -5,8 +5,17 @@ var builder = WebApplication.CreateBuilder(args);
 
 // DI: сервис один на приложение
 builder.Services.AddSingleton<TransactionService>();
+builder.Services.AddCors(opt =>
+{
+    opt.AddPolicy("dev", p => p
+        .AllowAnyHeader()
+        .AllowAnyMethod()
+        .AllowAnyOrigin());
+});
 
 var app = builder.Build();
+
+app.UseCors("dev");
 
 app.MapGet("/", () => "Personal Finance API is running");
 
