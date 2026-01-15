@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ozsRosO6Qjw=",
+  "dgSpecHash": "IzTgqmUEZ+M=",
   "success": true,
   "projectFilePath": "C:\\Users\\SUNGAT\\Documents\\MyWorksFromUniver\\SudokuGameProject\\MyProjects\\Personal Finance\\backend\\backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SUNGAT\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
-    "C:\\Users\\SUNGAT\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\SUNGAT\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\SUNGAT\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0\\microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\SUNGAT\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\SUNGAT\\.nuget\\packages\\npgsql\\10.0.1\\npgsql.10.0.1.nupkg.sha512"
   ],
   "logs": []
 }
